@@ -18,7 +18,7 @@ module OmniAuth
 
       info do
         {
-          username: user_info.sub
+          username: uid
         }
       end
 
