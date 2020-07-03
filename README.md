@@ -1,4 +1,6 @@
 # OmniAuth::UltraAuth
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fultraauth%2Fomniauth-ultraauth.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fultraauth%2Fomniauth-ultraauth?ref=badge_shield)
+
 
 ## Installation
 
@@ -76,3 +78,7 @@ An example of auth hash returned from the server available under `request.env['o
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fultraauth%2Fomniauth-ultraauth.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fultraauth%2Fomniauth-ultraauth?ref=badge_large)
